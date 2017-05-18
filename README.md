@@ -5,7 +5,11 @@ Deeplearning4J: Neural Networks for Java/JVM
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.deeplearning4j/deeplearning4j-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.deeplearning4j/deeplearning4j-core)
 [![Javadoc](https://javadoc-emblem.rhcloud.com/doc/org.deeplearning4j/deeplearning4j-core/badge.svg)](http://deeplearning4j.org/doc)
 [![Security Status](https://www.meterian.io/badge/gh/johnsblatter/deeplearning4j/security)](https://www.meterian.io/report/gh/johnsblatter/deeplearning4j)
-[![Defect Status](https://www.meterian.io/badge/gh/johnsblatter/deeplearning4j/defect)](https://www.meterian.io/report/gh/johnsblatter/deeplearning4j)
+[![Defect Status](https://www.meterian.io/badge/gh/johnsblatter/deeplearning4j/stability)](https://www.meterian.io/report/gh/johnsblatter/deeplearning4j)
+
+QA
+[![Security Status](https://qa.meterian.io/badge/gh/johnsblatter/deeplearning4j/security)](https://qa.meterian.io/report/gh/johnsblatter/deeplearning4j)
+[![Defect Status](https://qa.meterian.io/badge/gh/johnsblatter/deeplearning4j/stability)](https://qa.meterian.io/report/gh/johnsblatter/deeplearning4j)
 
 Deeplearning4J is an Apache 2.0-licensed, open-source, distributed neural net library written in Java and Scala. By contributing code to this repository, you agree to make your contribution available under an Apache 2.0 license.
 
